@@ -31,7 +31,7 @@ Artur = Student(name='Artur', height=165)
 print(Artur)
 #print(Artur.name)
 Artur.grow(10)
-Artur.study()
+Artur.study(2)
 print(Artur)
 
 # print(Artur.count_of_Student)
